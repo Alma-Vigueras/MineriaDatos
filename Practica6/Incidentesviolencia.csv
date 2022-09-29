@@ -1,4 +1,4 @@
-Country,Cent_Just,Period,Tot_Mujer,Pareja,Expareja,Novio,Novia,Padre,Madre,Abuelo,Abuela,Pariente distinto a la pareja,Amigo,Amiga,Desconocido,Maestro/Autoridad escolar M,Maestra/Autoridad escolar F,Compa_esc_M,Comp_esc_F,Jefe,Jefa,Comp_trab_F,Comp_trab_M,Servidora_pub,Servidor_pub,Otro(s)1,No especificado
+Country,Cent_Just,Period,Tot_Mujer,Pareja,Expareja,Novio,Novia,Padre,Madre,Abuelo,Abuela,Otro_pariente,Amigo,Amiga,Desconocido,Maestro/Autoridad escolar M,Maestra/Autoridad escolar F,Compa_esc_M,Comp_esc_F,Jefe,Jefa,Comp_trab_F,Comp_trab_M,Servidora_pub,Servidor_pub,Otro(s)1,No_esp
  Aguascalientes,"Aguascalientes,Aguascalientes",2019,  6 580,  2 301,  1 546,90,0,286,71,13,3,857,186,6,282,10,3,25,3,22,0,14,2,0,1,0,859
  Aguascalientes,"Aguascalientes,Aguascalientes",2020,  6 520,  2 426,  1 439,91,0,282,116,27,4,736,202,14,380,12,3,4,3,19,0,3,7,1,7,0,744
  Aguascalientes,"Aguascalientes,Aguascalientes",Al 30 de junio de 2021,  4 356,  1 390,811,12,0,197,72,15,2,500,151,19,302,8,0,1,1,7,0,8,0,0,2,0,858
